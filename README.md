@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://github.com/jeetsogarwal/jeetsogarwal/blob/main/Screenshot%202023-01-02%20at%207.11.17%20PM.png?raw=true)
 
 <h1 align="center">Hey! 👋, I'm Jeet Sogarwal</h1>
 <h3 align="center">Founder of 'REAL MEN', And passionate frontend developer from India</h3>
