@@ -3,7 +3,6 @@
 
 <h1 align="center">Hey! 👋, I'm Jeet Sogarwal</h1>
 <h3 align="center">Founder of 'REAL MEN', And passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/jeetsogarwal/jeetsogarwal/blob/main/f.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetsogarwal&label=Profile%20views&color=0e75b6&style=flat" alt="jeetsogarwal" /> </p>
 
