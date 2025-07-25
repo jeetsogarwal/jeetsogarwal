@@ -2,16 +2,16 @@
 
 <p align="center">
   <b>"Crafting elegant UI and building fast experiences is my jam!"</b><br />
-  🔭 Currently building: <a href="https://jeet-singh.netlify.app" target="_blank">jeet-singh.netlify.app</a><br />
-  🧠 Learning Rust | 🌱 Java | 🛠 DSA & Projects
+  🔭 MY PORTFOLIO(check out my projects): <a href="https://jeet-singh.netlify.app" target="_blank">jeet-singh.netlify.app</a><br />
+  🧠 Learning Rust | 🌱 Java | 🛠 DSA & Development.
 </p>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🎓 Final-year CSE student at Chandigarh University  
-- 💼 Freelance Frontend Developer | Full-stack Explorer  
+- 🎓 I have completed my BE-CSE student at Chandigarh University  
+- 💼 Freelance Frontend Developer | Full-stack Developer.  
 - ⚡ Fun Fact: I can fake it till I make it 😎  
 - 📬 Reach me: **jeetsogarwal10@gmail.com**
 
