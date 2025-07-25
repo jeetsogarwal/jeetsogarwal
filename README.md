@@ -1,4 +1,4 @@
-<h1 align="center"> Jeet Sogarwal – Frontend Dev | Problem Solver | Creator</h1>
+<h1 align="center"> Jeet Sogarwal – Full Stack Dev | Problem Solver | Creator</h1>
 
 <p align="center">
   <b>"Crafting elegant UI and building fast experiences is my jam!"</b><br />
