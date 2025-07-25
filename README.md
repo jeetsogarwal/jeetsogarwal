@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://jeetsogarwal.github.io/Portfolio-Website-fully-Responsive-/](jeet-singh.netlify.app)
+- 👨‍💻 All of my projects are available at [jeet-singh.netlify.app](jeet-singh.netlify.app)
 
 - 💬 Ask me about **Java ,DSA , Python**
 
