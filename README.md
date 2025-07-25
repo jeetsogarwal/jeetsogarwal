@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hey! 👋, I'm Jeet Sogarwal</h1>
-<h3 align="center">Founder of 'REAL MEN', And passionate frontend developer from India</h3>
+<h3 align="center">And passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetsogarwal&label=Profile%20views&color=0e75b6&style=flat" alt="jeetsogarwal" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://jeetsogarwal.github.io/Portfolio-Website-fully-Responsive-/](https://jeetsogarwal.github.io/Portfolio-Website-fully-Responsive-/)
+- 👨‍💻 All of my projects are available at [https://jeetsogarwal.github.io/Portfolio-Website-fully-Responsive-/](jeet-singh.netlify.app)
 
 - 💬 Ask me about **Java ,DSA , Python**
 
@@ -32,6 +32,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeetsogarwal&show_icons=true&locale=en&layout=compact" alt="jeetsogarwal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeetsogarwal&show_icons=true&locale=en" alt="jeetsogarwal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetsogarwal&" alt="jeetsogarwal" /></p>
