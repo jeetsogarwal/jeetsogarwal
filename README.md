@@ -10,7 +10,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 I have completed my BE-CSE student at Chandigarh University  
+- 🎓 I have completed my BE-CSE from Chandigarh University  
 - 💼 Freelance Frontend Developer | Full-stack Developer.  
 - ⚡ Fun Fact: I can fake it till I make it 😎  
 - 📬 Reach me: **jeetsogarwal10@gmail.com**
