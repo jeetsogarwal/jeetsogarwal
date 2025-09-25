@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#00ffff;">Jeet Sogarwal</span></h1>
-<h3 align="center">🚀 Full Stack Developer | 💡 Problem Solver | 🎨 Creative Technophile</h3>
+<h3 align="center">🚀 Full Stack Developer | Cloud/DevOps | 💡 Problem Solver | 🎨 Creative Technophile</h3>
 
 <p align="center"><i>"Crafting elegant UI and building fast experiences is my jam!"</i></p>
 
