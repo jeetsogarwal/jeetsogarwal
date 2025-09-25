@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#00ffff;">Jeet Sogarwal</span></h1>
 <h3 align="center">🚀 Full Stack Developer | Cloud/DevOps | 💡 Problem Solver | 🎨 Creative Technophile</h3>
 
-<p align="center"><i>"Crafting elegant UI and building fast experiences is my jam!"</i></p>
+<p align="center"><i>"Crafting elegant UI and Automatting for fast experiences is my jam!"</i></p>
 
 <p align="center">
   <a href="mailto:jeetsogarwal10@gmail.com"><img src="https://img.shields.io/badge/Email-jeetsogarwal10@gmail.com-red?style=flat-square&logo=gmail"></a>
@@ -15,10 +15,9 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **B.E. CSE** from **Chandigarh University** (2021–2025) with a CGPA of **7.81**
-- 🔧 Freelance **Frontend & Full Stack Developer**
-- 🧠 Learning **Rust** | 🌱 Advancing in **Java & DSA**
-- 🖌️ Passionate about beautiful UI/UX and efficient backend systems
-- ⚡ **Fun Fact:** I can fake it till I make it 😎
+- 🔧 Freelance **Frontend & Full Stack Developer with Cloud/DevOps skills**
+- 🧠 Learning **DevOps Tools** | 🌱 Advancing in **Java & DSA**
+- 🖌️ Passionate about Developing and efficient backend systems
 
 ---
 
